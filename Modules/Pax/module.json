@@ -1,0 +1,13 @@
+{
+    "name": "Pax",
+    "alias": "pax",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Pax\\Providers\\PaxServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

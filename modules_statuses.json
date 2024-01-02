@@ -1,0 +1,11 @@
+{
+    "Pax": true,
+    "Passport": true,
+    "Visa": true,
+    "Loi": true,
+    "Company": true,
+    "Department": true,
+    "User": true,
+    "RolePermission": true,
+    "BloodTest": true
+}

@@ -1,0 +1,13 @@
+{
+    "name": "BloodTest",
+    "alias": "bloodtest",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BloodTest\\Providers\\BloodTestServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

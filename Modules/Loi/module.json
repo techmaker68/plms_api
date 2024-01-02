@@ -1,0 +1,13 @@
+{
+    "name": "Loi",
+    "alias": "loi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Loi\\Providers\\LoiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
